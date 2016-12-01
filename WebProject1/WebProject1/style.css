@@ -1,0 +1,220 @@
+﻿* {
+    padding:0;
+	margin:0;
+}
+
+head {
+	
+}
+
+body {
+	color:black;
+	height:1150px;
+	background-color:black;
+}
+
+h1 {
+	text-align:center;
+	font-size:70px;
+	font-weight:900;
+	height:57px;
+}
+
+
+ul {
+	height:20px;
+}
+
+#title {
+	color:orange;
+}
+
+#wrap {
+	
+	background-image:url('WP_20141201_15_59_17_Pro.jpg');
+	margin-left:auto;
+	margin-right:auto;
+	width:800px;
+	color:white;
+	height:1300px;
+}
+
+#nav {
+	background-color:orange;
+	margin-right:auto;
+	margin-left:auto;
+	width:800px;
+	height:20px;
+	
+}
+
+#nav li {
+	list-style-type:none;
+	color:black;
+	text-align:center;
+	width:114px;
+	background-color:orange;
+	float:left;
+	height:20px;
+}
+
+#main {
+	width:800px;
+	color:white;
+	float:left;
+	height:auto;
+	
+}
+
+#address {
+	margin-top:60px;
+	color:orange;
+	font-size:30pt;	
+}
+
+a:link {
+	color:aqua;
+}
+
+a:visited {
+	color:red;
+}
+
+a:hover {
+	color:yellow;
+}
+
+#intropic {
+	text-align:center;
+	background-image:url('building.jpg');
+	height:220px;
+	width:800px;
+	margin-top:25px;	
+}
+
+/* #coupon {	Not controlling picture size, see index code
+	width:77px;
+	height:70px;
+	
+} */
+
+#store {
+	width:600px;
+	margin-right:auto;
+	margin-left:auto;
+	text-align:center;
+	border:3px orange dotted;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+#storepics {
+	width:625px;
+	height:200px;
+	margin-left:auto;
+	margin-right:auto;	
+}
+
+#spic1 {
+	float:left;
+	border:1px solid black;
+}
+
+#spic2 {
+	float:left;
+	border:1px solid black;
+}
+
+#spic3 {
+	float:left;
+	border:1px solid black;
+}
+
+#spic4 {
+	float:left;
+	border:1px solid black;
+}
+
+#catch {
+	width:750px;
+	text-align:center;
+	font-size:12pt;
+	margin-left:auto;
+	margin-right:auto;
+	border:5px yellow dotted;
+	padding:20px;
+	clear:both;
+	
+}	
+
+#basket {
+	width:220px;
+	border:1px orange solid;
+	padding:20px;
+	text-align:center;
+	float:left;
+	margin-top:10px;
+}
+
+#basket img {
+	border:thin orange solid;
+	margin-left:auto;
+	margin-right:auto;
+
+	
+}
+
+#escrap {
+	width:220px;
+	float:left;
+	padding:20px;
+	text-align:center;
+	border:1px orange solid;
+	border-height:500px;
+	margin-top:10px;
+}
+
+#escrap img {
+	border:thin orange solid;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#alumcans {
+	border:1px orange solid;
+	padding:20px;
+	width:233px;
+	text-align:center;
+	margin-top:10px;
+	float:right;
+}
+
+#alumcans img {
+	border:thin orange solid;
+	margin-left:auto;
+	margin-right:auto;	
+}
+
+#footer {
+	height:20px;
+	float:top;
+}
+
+/* CSS Gallery */
+
+
+#row1 {
+	width:700px;
+	
+}
+
+
+#row1 img {
+	border:5px orange solid;
+	width:150px;
+	height:100px;
+	float:right;
+	margin:30px;
+}
+	
+

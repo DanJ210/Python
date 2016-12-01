@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  MainPage.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+  XamlTypeInfo.g.cpp
+     Creating library C:\Users\Daniel\OneDrive\Documents\School\COP1000\Assignments\App1\Debug\App1\App1.lib and object C:\Users\Daniel\OneDrive\Documents\School\COP1000\Assignments\App1\Debug\App1\App1.exp
+  App1.vcxproj -> C:\Users\Daniel\OneDrive\Documents\School\COP1000\Assignments\App1\Debug\App1\App1.exe
+  App1.vcxproj -> C:\Users\Daniel\OneDrive\Documents\School\COP1000\Assignments\App1\Debug\App1\App1.pdb (Partial PDB)
